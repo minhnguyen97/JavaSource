@@ -13,6 +13,6 @@ import java.util.Collections;
  */
 public class Bai2 {
     public static void main(String[] args) {
-        Collection.
+        
     }
 }
